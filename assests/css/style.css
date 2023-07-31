@@ -8,7 +8,7 @@
     background-image: url(../image/imgt612.png);
     background-position: center;
     background-repeat: no-repeat;
-    /* background-size: cover; */
+      background-size: cover;  
 }
 
 .bg_nav {
